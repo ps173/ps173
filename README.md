@@ -18,5 +18,5 @@
 - ✏️ I write blogs at [dev.to](https://dev.to/ps173) and [medium](https://mehmehsloth.medium.com/)  
 
 <p align="center">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ps173&theme=react&show_icons=true">
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ps173&theme=gruvbox&show_icons=true">
 </p>
