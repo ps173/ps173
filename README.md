@@ -3,9 +3,7 @@
     I am Pratham Sharma  
   <br>
 </h2>
-
 <h3 align="center">
-  <br>
    I like to code and make things.
   <br>
 </h3>
