@@ -1,21 +1,15 @@
-<h1 align="center">
+<h2 align="center">
   <br>
-  Yo 🤘
+    I am Pratham Sharma and I like to code and make things. 
   <br>
-</h1>
-
-<h3 align="center">
-  <br>
-    My name is Pratham Sharma and I like to code and make things. 
-  <br>
-</h3>
+</h2>
 
 
-- 🔭 I’m currently working on [Vimgore](https://github.com/ps173/vimgore)
-- 🌱 I’m currently learning to build good backends for web-technologies.
-- 💬 Ask me about Javascript, React, Vim, Lua and Golang
-- 📫 How to reach me: [mail](mailto:prathamsharma173@gmail.com) , [instagram](https://www.instagram.com/unparalleled173/) , [telegram](https://t.me/Spirit_ps17)
-- ✏️ I write blogs at [dev.to](https://dev.to/ps173) and [medium](https://mehmehsloth.medium.com/)  
+- I’m currently working on [Vimgore](https://github.com/ps173/vimgore)
+- I’m currently learning to build good backends for web-technologies.
+- Ask me about Javascript, React, Vim, Lua and Golang
+- How to reach me: [mail](mailto:prathamsharma173@gmail.com) , [instagram](https://www.instagram.com/unparalleled173/) , [telegram](https://t.me/Spirit_ps17)
+- I write blogs at [dev.to](https://dev.to/ps173) and [medium](https://mehmehsloth.medium.com/)  
     
 <br /><br />
    
