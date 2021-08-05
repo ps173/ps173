@@ -17,8 +17,7 @@
 - 📫 How to reach me: [mail](mailto:prathamsharma173@gmail.com) , [instagram](https://www.instagram.com/unparalleled173/) , [telegram](https://t.me/Spirit_ps17)
 - ✏️ I write blogs at [dev.to](https://dev.to/ps173) and [medium](https://mehmehsloth.medium.com/)  
     
-    
-   
+<br /><br />
    
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ps173&theme=gruvbox&show_icons=true">
