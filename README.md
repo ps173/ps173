@@ -8,6 +8,7 @@
   <br>
 </h3>
 
+<br><br>
 - I’m currently working on [Vimgore](https://github.com/ps173/vimgore)
 - I’m currently learning to build good backends for web-technologies.
 - Ask me about Javascript, React, Vim, Lua and Golang
