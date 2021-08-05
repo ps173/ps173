@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [vimgore](https://github.com/ps173/vimgore)
 - 🌱 I’m currently learning Golang 
-- 💬 Ask me about Javascript, React, Vim, lua and Golang
-- 📫 How to reach me: [mail](mailto:prathamsharma173@gmail.com) , [insta](https://www.instagram.com/unparalleled173/) , [Telegram](https://t.me/Spirit_ps17)
-
+- 💬 Ask me about Javascript, React, Vim, Lua and Golang
+- 📫 How to reach me: [Mail](mailto:prathamsharma173@gmail.com) , [Insta](https://www.instagram.com/unparalleled173/) , [Telegram](https://t.me/Spirit_ps17)
 
