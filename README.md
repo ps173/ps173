@@ -1,9 +1,14 @@
 <h2 align="center">
   <br>
-    I am Pratham Sharma and I like to code and make things. 
+    I am Pratham Sharma  
   <br>
 </h2>
 
+<h3 align="center">
+  <br>
+   I like to code and make things.
+  <br>
+</h3>
 
 - I’m currently working on [Vimgore](https://github.com/ps173/vimgore)
 - I’m currently learning to build good backends for web-technologies.
