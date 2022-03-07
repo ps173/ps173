@@ -2,4 +2,4 @@
 - Ask me about Javascript, React, Vim, Lua and Golang.
 - [mail](mailto:prathamsharma173@gmail.com) , [instagram](https://www.instagram.com/unparalleled173/) , [telegram](https://t.me/Spirit_ps17)
 - I write blogs at [dev.to](https://dev.to/ps173) and [medium](https://mehmehsloth.medium.com/)
-Currently working [@codeword-tech](https://github.com/codeword-tech)
+- Currently working [@codeword-tech](https://github.com/codeword-tech)
